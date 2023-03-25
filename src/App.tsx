@@ -1,8 +1,10 @@
+import { Navbar } from "./assets/components/Navbar"
+
 function App() {
   return (
-    <div className="App">
-      <h1>Initialize project</h1>
-    </div>
+    <>
+      <Navbar />
+    </>
   )
 }
 
